@@ -34,5 +34,6 @@
         android:layout_height="match_parent"
         android:layout_gravity="start"
         android:background="#2196F3"
+        app:headerLayout="@layout/layout_cajon"
         app:menu="@menu/menu1" />
 </androidx.drawerlayout.widget.DrawerLayout>
